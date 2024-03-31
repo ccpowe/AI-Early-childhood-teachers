@@ -50,3 +50,7 @@ Early Childhood Education Agent - Provide companionship for children
 - 使用InterLM2-Chat-1.8B 模型生成300字小故事
 ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/edcc844f-40d9-4528-8aa8-96107ba6e642)
 
+- 调用lagent求解问题
+  ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/bdb5414f-88fa-4547-b584-dbaa1107e539)
+
+
