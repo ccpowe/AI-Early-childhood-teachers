@@ -1,5 +1,6 @@
 # AI-Early-childhood-teachers
 Early Childhood Education Agent - Provide companionship for children
+## 书生浦语模型各期作业
 
 ### 第一节课堂笔记
 #### 1.书生浦语大模型的全年度开源体系，以及书生浦语大模型的发展历程和特点，其中包括轻量级和重量级模型以及不同能力的模型。书生浦语大模型实战营介绍，第二期课程内容
@@ -45,3 +46,7 @@ Early Childhood Education Agent - Provide companionship for children
 ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/97ffa3ae-afdf-433b-9432-f95192f07b80)
 #### 兴趣小组
 ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/a58e4795-1e5f-4783-b5f4-6106362a9de0)
+#### 课后作业
+- 使用InterLM2-Chat-1.8B 模型生成300字小故事
+![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/edcc844f-40d9-4528-8aa8-96107ba6e642)
+
