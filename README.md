@@ -53,4 +53,11 @@ Early Childhood Education Agent - Provide companionship for children
 - 调用lagent求解问题
   ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/bdb5414f-88fa-4547-b584-dbaa1107e539)
 
+### 第三节作业
+####   在茴香豆 Web 版中创建自己领域的知识问答助手
+![PixPin_2024-04-14_15-06-26](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/8d7d0838-9bff-457b-bf96-811a09fc6d82)
+
+####   在 InternLM Studio 上部署茴香豆技术助手
+![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/67ad1d2d-5393-4ded-8f6a-e7c31ee76e6b)
+
 
