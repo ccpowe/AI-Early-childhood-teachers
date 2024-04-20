@@ -8,7 +8,7 @@ Early Childhood Education Agent - Provide companionship for children
 
 3.第三节课（基础完成）
 
-4.第四节课（学习中）
+4.第四节课（基础完成）
 
 
 ### 第一节课堂笔记
@@ -107,4 +107,6 @@ RAG系统中检索和生成过程的这种集成确保了人工智能模型不�
 ####   在 InternLM Studio 上部署茴香豆技术助手
 ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/67ad1d2d-5393-4ded-8f6a-e7c31ee76e6b)
 
+#### 第四节作业
+![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/a938c49c-a0ae-499a-abff-1e0475635e5a)
 
