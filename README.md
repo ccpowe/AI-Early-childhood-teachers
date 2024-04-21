@@ -12,7 +12,7 @@ Early Childhood Education Agent - Provide companionship for children
 
 5.第五节课（完成)
 
-6.第六节课(基础完成)
+6.第六节课(完成)
 
 7.第七节课（学习中)
 
@@ -138,6 +138,9 @@ RAG系统中检索和生成过程的这种集成确保了人工智能模型不�
 ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/89e6b676-b3f8-4617-ad52-e6a8643d8960)
 - 完成 AgentLego 直接使用部分，并在作业中上传截图。
 ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/a804b32e-07b9-4d3e-90b1-94ccb45ed5e9)
+- 完成 AgentLego WebUI 使用，并在作业中上传截图。
+![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/4bf1b466-a426-4f8f-abac-368c713be8ec)
+ 
 
 
 
