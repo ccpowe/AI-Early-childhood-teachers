@@ -136,6 +136,9 @@ RAG系统中检索和生成过程的这种集成确保了人工智能模型不�
   ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/224dbeae-fd3b-4768-9c20-76e428aa1f10)
 - 自定义工具调用。
 ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/89e6b676-b3f8-4617-ad52-e6a8643d8960)
+- 完成 AgentLego 直接使用部分，并在作业中上传截图。
+![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/a804b32e-07b9-4d3e-90b1-94ccb45ed5e9)
+
 
 
 
