@@ -10,7 +10,7 @@ Early Childhood Education Agent - Provide companionship for children
 
 4.第四节课（基础完成）
 
-5.第五节课（基础完成）
+5.第五节课（完成）
 
 
 ### 第一节课堂笔记
@@ -113,6 +113,22 @@ RAG系统中检索和生成过程的这种集成确保了人工智能模型不�
 ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/a938c49c-a0ae-499a-abff-1e0475635e5a)
 
 #### 第五节作业
+- 基础作业命令行对话1.8b
 ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/c8234bcb-1830-420d-94b2-5b68b82f4fb5)
+
+- 设置KV Cache最大占用比例为0.4，开启W4A16量化，以命令行方式与模型对话。（优秀学员必做）
+![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/597593c9-017e-4173-83ff-e4ea396f8549)
+![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/0dde3f07-dcc9-476b-9ee6-37e2eb739671)
+
+- 以API Server方式启动 lmdeploy，开启 W4A16量化，调整KV Cache的占用比例为0.4，分别使用命令行客户端与Gradio网页客户端与模型对话。![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/e9479cbb-a867-40db-9f8c-21c3f262d438)
+![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/d4338ca9-2982-4ef3-9466-711dbb0e9037)
+![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/c0b0d183-3ee5-41d0-bb97-25face05f11e)
+- 使用W4A16量化，调整KV Cache的占用比例为0.4，使用Python代码集成的方式运行internlm2-chat-1.8b模型
+![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/842615a0-c682-44eb-a018-7865852a3787)
+- 使用 LMDeploy 运行视觉多模态大模型 llava gradio demo。
+  ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/582b549d-b609-49c4-8802-a2564a4cf442)
+
+
+
 
 
