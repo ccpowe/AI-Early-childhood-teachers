@@ -14,7 +14,7 @@ Early Childhood Education Agent - Provide companionship for children
 
 6.第六节课(完成)
 
-7.第七节课（学习中)
+7.第七节课（完成)
 
 ### 第一节课堂笔记
 #### 1.书生浦语大模型的全年度开源体系，以及书生浦语大模型的发展历程和特点，其中包括轻量级和重量级模型以及不同能力的模型。书生浦语大模型实战营介绍，第二期课程内容
@@ -140,7 +140,11 @@ RAG系统中检索和生成过程的这种集成确保了人工智能模型不�
 ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/a804b32e-07b9-4d3e-90b1-94ccb45ed5e9)
 - 完成 AgentLego WebUI 使用，并在作业中上传截图。
 ![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/4bf1b466-a426-4f8f-abac-368c713be8ec)
- 
+
+#### 第七节课作业
+- 使用 OpenCompass 评测 internlm2-chat-1_8b 模型在 C-Eval 数据集上的性能
+![image](https://github.com/ccpowe/AI-Early-childhood-teachers/assets/95957079/4c89fbe4-e59f-4246-b108-f5737af5bae0)
+
 
 
 
